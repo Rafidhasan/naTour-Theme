@@ -1,1 +1,2 @@
-# naTour-Theme
+# Natours Theme
+## HTML CSS Responsive website
